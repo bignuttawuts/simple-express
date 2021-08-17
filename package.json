@@ -1,0 +1,22 @@
+{
+  "name": "simple-express",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bignuttawuts/simple-express.git"
+  },
+  "author": "big.nuttawut.s@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bignuttawuts/simple-express/issues"
+  },
+  "homepage": "https://github.com/bignuttawuts/simple-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
