@@ -9,3 +9,10 @@
 
 - Go inside the container
   `docker exec -it simple-express bash`
+
+## To-do List
+
+1. Initial node express with docker
+2. Simple application node with MariaDB
+3. Register with euraka
+4. Call another service in among euraka
